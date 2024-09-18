@@ -17,11 +17,13 @@ To get started with this repository:
    git clone https://github.com/sarimijlal/Open_CV.git
    
 2. **Navigate to the Directory:**
+   ```bash
    cd Open_CV
 
-3. **Set Up Your Environment:**
+4. **Set Up Your Environment:**
      Ensure you have Python and OpenCV installed. You can install OpenCV using pip:
-   pip install opencv-python
+      ```bash
+      pip install opencv-python
 
 ## Contribution
   
